@@ -1,9 +1,13 @@
-FROM node:lts as runner
+FROM node:slim
 
-WORKDIR /usr/src/app
-COPY package*.json ./
-RUN npm install
+WORKDIR /app
+
 COPY . .
 
 EXPOSE 3000
-CMD npm run start
+
+RUN apt update -y &&\
+    chmod +x index.js &&\
+    npm install 
+    
+CMD ["node", "index.js"]
