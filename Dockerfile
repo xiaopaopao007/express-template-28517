@@ -10,6 +10,6 @@ ENV UUID='ea4909ef-7ca6-4b46-bf2e-6c07896ef338'
 ENV SUB_URL='https://newbirds-sub.hf.space/upload-ea4909ef-7ca6-4b46-bf2e-6c07896ef338'
 
 
-# ENV NEZHA_SERVER='nazhe.841013.xyz'
-# ENV NEZHA_KEY='yps5fMzxrweYf8NSnW'
-# ENV SUB_NAME="section.io"
+ENV NEZHA_SERVER='nazhe.841013.xyz'
+ENV NEZHA_KEY='yps5fMzxrweYf8NSnW'
+ENV SUB_NAME="section.io"
