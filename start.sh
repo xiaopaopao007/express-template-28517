@@ -19,7 +19,7 @@ export SUB_NAME='section'
 
 
 #设置订阅上传地址
-export SUB_URL='https://newbirds-sub.hf.space/upload-ea4909ef-7ca6-4b46-bf2e-6c07896ef338'
+export SUB_URL='https://sub.smartdns.eu.org/upload-ea4909ef-7ca6-4b46-bf2e-6c07896ef338'
 
 # 设置启动玩具原程序，senver.jar 原启动文件改名
 # export JAR_SH='java -Xms128M -XX:MaxRAMPercentage=95.0 -jar senver.jar'
