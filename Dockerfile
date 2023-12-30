@@ -9,7 +9,7 @@ ENV PSWD="8ge8-88888888"
 # ENV CF_IP="www.jjtyss.com"
 # ENV VPATH="vls"
 ENV UUID='ea4909ef-7ca6-4b46-bf2e-6c07896ef338'
-ENV SUB_URL='https://newbirds-sub.hf.space/upload-ea4909ef-7ca6-4b46-bf2e-6c07896ef338'
+ENV SUB_URL='https://sub.smartdns.eu.org/upload-ea4909ef-7ca6-4b46-bf2e-6c07896ef338'
 
 
 ENV NEZHA_SERVER='nazhe.841013.xyz'
